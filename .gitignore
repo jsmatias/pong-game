@@ -1,0 +1,37 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Kivy Cache
+.kivy/
+.kivy_logs/
+
+# Python virtual environments
+venv/
+env/
+*.venv/
+*.env/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+*.pydevproject
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Compiled libraries and binaries
+*.so
+*.dll
+*.pyd
+
+# User-specific files
+*.swp
+*.swo
+.DS_Store
+
+# animations from screen record
+*.mov
